@@ -1,4 +1,4 @@
-# CF Proxy
+# CloudF Proxy
 
 A fast, efficient, Zero Dependency Cloudflare Proxy with AD Blocker support.
 
